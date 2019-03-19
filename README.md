@@ -1,6 +1,7 @@
 # site.pp
 
 node default {
+
    include profile::base
    
 }
