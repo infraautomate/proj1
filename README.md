@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # git.pp
 class profile::git {
   package {'git':
@@ -16,3 +17,7 @@ class profile::httpd {
       ensure => stopped, 
     }
 }
+=======
+# project1
+My first project
+>>>>>>> 534c5890c519aa293e794bc8b86d742a308759d9
