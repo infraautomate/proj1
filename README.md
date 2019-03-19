@@ -1,2 +1,2 @@
-# proj1
+# project1
 test project 1
